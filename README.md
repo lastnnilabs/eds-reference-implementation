@@ -20,7 +20,7 @@ This repository contains the **reference implementation** of **Emergent Dimensio
 
 ## Paper
 
-**Full paper (PDF)**: [EDS_v2.0.pdf](https://github.com/lastnnilabs/eds-reference-implementation/blob/main/EDS_v2.0.docx.pdf)
+**Full paper (PDF)**: [EDS_v2.0.pdf](https://github.com/lastnnilabs/eds-reference-implementation/blob/main/EDS_v2.pdf)
 
 arXiv preprint: **coming soon**
 
